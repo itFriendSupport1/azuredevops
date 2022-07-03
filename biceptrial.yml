@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:itfriendsupportv2
+  name: itfriendsupportv2
 
 steps:
 - checkout: self
